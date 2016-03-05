@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theologiamorali02heilgoog_0006.png"; bbox 0 0 2576 4168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 353 1489 926 1639">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 353 1398 926 1639">
+     <span class='ocr_line' id='line_1_1' title="bbox 353 1489 926 1639; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 353 1489 926 1639; x_wconf 59' lang='lat' dir='ltr'>ffifflcoeffl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 327 1815 746 1897">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 327 1815 746 1897">
+     <span class='ocr_line' id='line_1_2' title="bbox 327 1815 746 1897; baseline 0 -3"><span class='ocrx_word' id='word_1_2' title='bbox 327 1879 329 1883; x_wconf 84' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 535 1815 746 1897; x_wconf 84' lang='lat' dir='ltr'>MORALIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 25 2058 1178 2265">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 25 2011 1178 2265">
+     <span class='ocr_line' id='line_1_3' title="bbox 25 2058 1178 2265; baseline -0.003 -74"><span class='ocrx_word' id='word_1_4' title='bbox 25 2184 30 2265; x_wconf 19' lang='grc' dir='ltr'>ἱ</span> <span class='ocrx_word' id='word_1_5' title='bbox 80 2178 83 2183; x_wconf 89' lang='grc'>.</span> <span class='ocrx_word' id='word_1_6' title='bbox 175 2068 744 2263; x_wconf 30' lang='lat' dir='ltr'>ss.A1,1›H0Ns11&gt;E</span> <span class='ocrx_word' id='word_1_7' title='bbox 788 2068 1088 2194; x_wconf 79' lang='lat' dir='ltr'>L1GOR10.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1174 2058 1178 2065; x_wconf 76' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1292 4168">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1292 4168">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1292 4168; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1292 4168; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
